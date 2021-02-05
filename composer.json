@@ -1,0 +1,16 @@
+{
+    "name": "astakova/shestakova",
+    "type": "library",
+    "authors": [
+        {
+            "name": "astakova",
+            "email": "shesna2000@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "shestakova\\": ""
+        }
+    }
+}
